@@ -16,7 +16,6 @@ function q1(){
   userAns1 = prompt('Am I an artistic person?').toLowerCase(); // ask the question through a prompt, and normalize their answer to lower case
   console.log('User answer for question 1 is: ' + userAns1); // created a console log to see the users answer for this question
 
-
   if(userAns1 === 'y' || userAns1 === 'yes') // If they answer with 'y' OR 'yes'
   {
     alert('I\'ll give you half points for that, I am really creative and inspired but I have not developed anything into any artistic talent yet!'); // this alert message will appear
