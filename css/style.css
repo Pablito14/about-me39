@@ -10,13 +10,18 @@ header {
     text-align: center;
 }
 
+main{
+    margin: 25px;
+}
+
 h1{
     font-size: 24px;
     font-weight: bold;
 }
 
-main{
-    margin: 25px;
+h2{
+    font-size: 22px;
+    font-weight: bold;
 }
 
 ul {
@@ -26,6 +31,6 @@ ul {
 footer{
     background: #efefef;
     color: rgb(57, 202, 166);
-    text-align: center;
     line-height: 30px;
+    text-align: center;
 }
